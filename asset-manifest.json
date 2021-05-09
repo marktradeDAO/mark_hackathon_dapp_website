@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mark_hackathon_dapp_website/static/css/main.dd44250b.chunk.css",
-    "main.js": "/mark_hackathon_dapp_website/static/js/main.7d24dced.chunk.js",
-    "main.js.map": "/mark_hackathon_dapp_website/static/js/main.7d24dced.chunk.js.map",
+    "main.css": "/mark_hackathon_dapp_website/static/css/main.4d1144b8.chunk.css",
+    "main.js": "/mark_hackathon_dapp_website/static/js/main.c2b38bb1.chunk.js",
+    "main.js.map": "/mark_hackathon_dapp_website/static/js/main.c2b38bb1.chunk.js.map",
     "runtime-main.js": "/mark_hackathon_dapp_website/static/js/runtime-main.bd1a6221.js",
     "runtime-main.js.map": "/mark_hackathon_dapp_website/static/js/runtime-main.bd1a6221.js.map",
     "static/js/2.bde27fd8.chunk.js": "/mark_hackathon_dapp_website/static/js/2.bde27fd8.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b03b279b.chunk.js": "/mark_hackathon_dapp_website/static/js/3.b03b279b.chunk.js",
     "static/js/3.b03b279b.chunk.js.map": "/mark_hackathon_dapp_website/static/js/3.b03b279b.chunk.js.map",
     "index.html": "/mark_hackathon_dapp_website/index.html",
-    "static/css/main.dd44250b.chunk.css.map": "/mark_hackathon_dapp_website/static/css/main.dd44250b.chunk.css.map",
+    "static/css/main.4d1144b8.chunk.css.map": "/mark_hackathon_dapp_website/static/css/main.4d1144b8.chunk.css.map",
     "static/js/2.bde27fd8.chunk.js.LICENSE.txt": "/mark_hackathon_dapp_website/static/js/2.bde27fd8.chunk.js.LICENSE.txt",
-    "static/media/mt-initials.b37eb3c0.svg": "/mark_hackathon_dapp_website/static/media/mt-initials.b37eb3c0.svg"
+    "static/media/mt-initials.37542b79.svg": "/mark_hackathon_dapp_website/static/media/mt-initials.37542b79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd1a6221.js",
     "static/js/2.bde27fd8.chunk.js",
-    "static/css/main.dd44250b.chunk.css",
-    "static/js/main.7d24dced.chunk.js"
+    "static/css/main.4d1144b8.chunk.css",
+    "static/js/main.c2b38bb1.chunk.js"
   ]
 }
